@@ -7,6 +7,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on GITHUB
 - 🌱 I’m currently learning Javascript
-- 👯 I’m working as a Intern in Weboccult
+- 👯 I’m working as an Intern in Weboccult
 
 -->
